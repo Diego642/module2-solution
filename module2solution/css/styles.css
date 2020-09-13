@@ -52,7 +52,6 @@ table {
 @media (min-width: 992px){
 
 body{
-    /*font-family: 'Raleway', sans-serif;*/
     font-weight: 200;
     background-color: white;
     
@@ -83,6 +82,8 @@ header {
     margin-right: 10px;
     position: relative;
     overflow: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .sub {
@@ -149,6 +150,8 @@ header {
     margin-right: 3px;
     position: relative;
     overflow: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
     
 #p3{
@@ -164,6 +167,8 @@ header {
     margin-top: 20px;
     position: relative;
     overflow: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .sub {
@@ -232,6 +237,8 @@ header {
     margin-top: 15px;
     position: relative;
     overflow: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .sub {
